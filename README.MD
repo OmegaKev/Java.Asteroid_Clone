@@ -1,5 +1,6 @@
 <h3>Asteroid Clone created in Java (1.8)</h3>
-Author: Kevin Hall
+Author: Kevin Hall<br>
+Requires Java 8
 
 <h4>Modes</h4>
 <pre>
